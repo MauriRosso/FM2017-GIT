@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3C9CD60-6269-4C90-BFA9-54147AFB55AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Football_Manager_2016</RootNamespace>
+    <AssemblyName>Football Manager 2016</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aga.Controls">
+      <HintPath>..\..\PrueboBarraCircular\packages\AdamsLair.TreeViewAdv.1.7.6.0\lib\net20\Aga.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\packages\CircularProgressBar.2.3.0\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="CurrencyTextBoxControl">
+      <HintPath>..\packages\CurrencyTextBox.1.4.1\lib\CurrencyTextBoxControl.dll</HintPath>
+    </Reference>
+    <Reference Include="DualityEditor">
+      <HintPath>..\..\PrueboBarraCircular\packages\AdamsLair.Duality.Editor.2.7.15\lib\DualityEditor.exe</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ajustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajustes.Designer.cs">
+      <DependentUpon>Ajustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayudante_de_campo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayudante_de_campo.Designer.cs">
+      <DependentUpon>Ayudante_de_campo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BandejaMensajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BandejaMensajes.Designer.cs">
+      <DependentUpon>BandejaMensajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calendario.Designer.cs">
+      <DependentUpon>Calendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Competiciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Competiciones.Designer.cs">
+      <DependentUpon>Competiciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar Juego.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar Juego.Designer.cs">
+      <DependentUpon>Configurar Juego.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_juego_Calendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_juego_Calendario.Designer.cs">
+      <DependentUpon>Configurar_juego_Calendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Equipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Equipos.Designer.cs">
+      <DependentUpon>Configurar_Juego_Equipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Equipos_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Equipos_Editar.Designer.cs">
+      <DependentUpon>Configurar_Juego_Equipos_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Fixture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Fixture.Designer.cs">
+      <DependentUpon>Configurar_Juego_Fixture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Fixture_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Fixture_Editar.Designer.cs">
+      <DependentUpon>Configurar_Juego_Fixture_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Jugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Jugadores.Designer.cs">
+      <DependentUpon>Configurar_Juego_Jugadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configurar_Juego_Jugadores_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configurar_Juego_Jugadores_Editar.Designer.cs">
+      <DependentUpon>Configurar_Juego_Jugadores_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas.Designer.cs">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estadio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadio.Designer.cs">
+      <DependentUpon>Estadio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finalizacion Partido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finalizacion Partido.Designer.cs">
+      <DependentUpon>Finalizacion Partido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Finanzas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finanzas.Designer.cs">
+      <DependentUpon>Finanzas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fixture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fixture.Designer.cs">
+      <DependentUpon>Fixture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FixtureCompleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FixtureCompleto.Designer.cs">
+      <DependentUpon>FixtureCompleto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formacion.Designer.cs">
+      <DependentUpon>Formacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hinchadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hinchadas.Designer.cs">
+      <DependentUpon>Hinchadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informacion.Designer.cs">
+      <DependentUpon>Informacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jugar_Partido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jugar_Partido.Designer.cs">
+      <DependentUpon>Jugar_Partido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negociaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negociaciones.Designer.cs">
+      <DependentUpon>Negociaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Partidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Partidas.Designer.cs">
+      <DependentUpon>Partidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrueboLOGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrueboLOGO.Designer.cs">
+      <DependentUpon>PrueboLOGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccionIngresoEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccionIngresoEquipo.Designer.cs">
+      <DependentUpon>SeleccionIngresoEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sponsor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sponsor.Designer.cs">
+      <DependentUpon>Sponsor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas.Designer.cs">
+      <DependentUpon>Tablas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ver Ligas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ver Ligas.Designer.cs">
+      <DependentUpon>Ver Ligas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ajustes.resx">
+      <DependentUpon>Ajustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayudante_de_campo.resx">
+      <DependentUpon>Ayudante_de_campo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BandejaMensajes.resx">
+      <DependentUpon>BandejaMensajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calendario.resx">
+      <DependentUpon>Calendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Competiciones.resx">
+      <DependentUpon>Competiciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar Juego.resx">
+      <DependentUpon>Configurar Juego.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_juego_Calendario.resx">
+      <DependentUpon>Configurar_juego_Calendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Equipos.resx">
+      <DependentUpon>Configurar_Juego_Equipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Equipos_Editar.resx">
+      <DependentUpon>Configurar_Juego_Equipos_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Fixture.resx">
+      <DependentUpon>Configurar_Juego_Fixture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Fixture_Editar.resx">
+      <DependentUpon>Configurar_Juego_Fixture_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Jugadores.resx">
+      <DependentUpon>Configurar_Juego_Jugadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configurar_Juego_Jugadores_Editar.resx">
+      <DependentUpon>Configurar_Juego_Jugadores_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas.resx">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadio.resx">
+      <DependentUpon>Estadio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finalizacion Partido.resx">
+      <DependentUpon>Finalizacion Partido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finanzas.resx">
+      <DependentUpon>Finanzas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fixture.resx">
+      <DependentUpon>Fixture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FixtureCompleto.resx">
+      <DependentUpon>FixtureCompleto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formacion.resx">
+      <DependentUpon>Formacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hinchadas.resx">
+      <DependentUpon>Hinchadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informacion.resx">
+      <DependentUpon>Informacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jugar_Partido.resx">
+      <DependentUpon>Jugar_Partido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negociaciones.resx">
+      <DependentUpon>Negociaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Partidas.resx">
+      <DependentUpon>Partidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PrueboLOGO.resx">
+      <DependentUpon>PrueboLOGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccionIngresoEquipo.resx">
+      <DependentUpon>SeleccionIngresoEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sponsor.resx">
+      <DependentUpon>Sponsor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas.resx">
+      <DependentUpon>Tablas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ver Ligas.resx">
+      <DependentUpon>Ver Ligas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

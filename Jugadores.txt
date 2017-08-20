@@ -1,0 +1,27 @@
+TOTAL: 21 jugadores
+
+----------------------
+
+2 arqueros
+
+6 defensores
+
+6 mediocampistas
+
+3 volantes
+
+4 delanteros
+
+----------------------
+VALORES:
+
+MIN: 3600
+MAX: 6000
+
+SUELDOS:(1 max por puesto)
+
+MIN:300
+MAX:500    
+      
+
+

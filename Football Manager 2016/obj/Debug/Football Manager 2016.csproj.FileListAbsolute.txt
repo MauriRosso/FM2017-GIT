@@ -1,0 +1,169 @@
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe.config
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\bin\Debug\Football Manager 2016.pdb
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football Manager 2016.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Form1.resources
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football_Manager_2016.SeleccionIngresoEquipo.resources
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football Manager 2016.exe
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football Manager 2016.pdb
+C:\Users\Usuario\Desktop\Football Manager 2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Partidas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe.config
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.exe
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.pdb
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.pdb
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Form1.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Partidas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Properties.Resources.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.SeleccionIngresoEquipo.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PantallaPrincipal.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Fixture.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Entradas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Estadio.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finanzas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Tablas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Fixture.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Equipos.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Formacion.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Jugadores.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PrueboLOGO.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Jugar_Partido.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Sponsor.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Hinchadas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Competiciones.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Informacion.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ajustes.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ver_Ligas.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.xml
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ayudante_de_campo.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.FixtureCompleto.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Negociaciones.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Windows7.DesktopIntegration.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\VistaBridgeLibrary.dll
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.pdb
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.xml
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finalizacion_Partido.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.BandejaMensajes.resources
+C:\Users\Usuario\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CurrencyTextBoxControl.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe.config
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.pdb
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\CurrencyTextBoxControl.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Windows7.DesktopIntegration.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\VistaBridgeLibrary.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.xml
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.pdb
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.xml
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.xml
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csprojResolveAssemblyReference.cache
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.ResolveComReference.cache
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ajustes.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ayudante_de_campo.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.BandejaMensajes.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Competiciones.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Equipos.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Fixture.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Jugadores.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Entradas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Estadio.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finalizacion_Partido.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finanzas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Fixture.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.FixtureCompleto.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Form1.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Formacion.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Hinchadas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Informacion.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Jugar_Partido.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Negociaciones.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PantallaPrincipal.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Partidas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Properties.Resources.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PrueboLOGO.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.SeleccionIngresoEquipo.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Sponsor.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Tablas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ver_Ligas.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.GenerateResource.Cache
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.exe
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.pdb
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe.config
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.exe
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Football Manager 2016.pdb
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CurrencyTextBoxControl.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Windows7.DesktopIntegration.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\VistaBridgeLibrary.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\CircularProgressBar.xml
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.pdb
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\DualityEditor.xml
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\WinFormAnimation.xml
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csprojResolveAssemblyReference.cache
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.ResolveComReference.cache
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ajustes.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ayudante_de_campo.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.BandejaMensajes.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Competiciones.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Equipos.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Fixture.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Jugadores.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Entradas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Estadio.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finalizacion_Partido.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Finanzas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Fixture.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.FixtureCompleto.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Form1.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Formacion.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Hinchadas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Informacion.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Jugar_Partido.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Negociaciones.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PantallaPrincipal.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Partidas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Properties.Resources.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.PrueboLOGO.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.SeleccionIngresoEquipo.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Sponsor.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Tablas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Ver_Ligas.resources
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.csproj.GenerateResource.Cache
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.exe
+C:\Users\mauri\Desktop\FootballManager2016\Football Manager 2016\obj\Debug\Football Manager 2016.pdb
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Calendario.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_juego_Calendario.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Equipos_Editar.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Fixture_Editar.resources
+C:\Users\mauri\Desktop\MAURI\FootballManager2016\Football Manager 2016\obj\Debug\Football_Manager_2016.Configurar_Juego_Jugadores_Editar.resources

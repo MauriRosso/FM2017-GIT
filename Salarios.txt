@@ -1,0 +1,7 @@
+1 jugador que cobra el maximo por puesto
+El resto cobra el minimo
+
+MAXIMO: 500
+MINIMO: 300
+
+

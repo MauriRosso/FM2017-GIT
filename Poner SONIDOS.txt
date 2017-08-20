@@ -1,0 +1,18 @@
+--- Using System.Media;
+
+
+--- Metodo()
+    {
+	SoundPlayer Sonido = new SoundPlayer(@"C:\CarpetaVoz\SONIDO.wav");
+	Sonido.Play();
+    }
+
+
+link sonidos:
+grito "estuvo cerca": https://www.youtube.com/watch?v=s7VOZr8_Zzk
+
+grito "GOL 1": https://www.youtube.com/watch?v=wAaNblGdORA
+
+grito "GOL 2" (1:25 seg): https://www.youtube.com/watch?v=mLYCHYpeuvc
+
+ 
